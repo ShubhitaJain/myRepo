@@ -12,6 +12,7 @@ import java.util.Arrays;
  */
 public class StrangelandSweetPurchase {
     public static void  main(String []arg){
+        System.out.println("doing changes");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         try {
             String inputT = br.readLine();
